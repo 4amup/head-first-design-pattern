@@ -1,4 +1,4 @@
-package headfirst.factory.franchisepizza;
+package headfirst.factory.factorymode;
 
 public abstract class PizzaStore {
 	// 准备pizza订单

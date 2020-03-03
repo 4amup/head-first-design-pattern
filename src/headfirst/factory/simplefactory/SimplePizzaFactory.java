@@ -1,4 +1,4 @@
-package headfirst.factory.simplepizzafactory;
+package headfirst.factory.simplefactory;
 
 public class SimplePizzaFactory {
 	public Pizza createPizza(String type) {

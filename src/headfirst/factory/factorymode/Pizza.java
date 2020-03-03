@@ -1,4 +1,4 @@
-package headfirst.factory.franchisepizza;
+package headfirst.factory.factorymode;
 
 import java.util.ArrayList;
 

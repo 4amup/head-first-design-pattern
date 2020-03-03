@@ -1,4 +1,4 @@
-package headfirst.factory.franchisepizza;
+package headfirst.factory.factorymode;
 
 public class NYStylePizzaStore extends PizzaStore {
 	@Override

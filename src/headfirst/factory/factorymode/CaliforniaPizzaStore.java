@@ -1,12 +1,12 @@
-package headfirst.factory.franchisepizza;
+package headfirst.factory.factorymode;
 
-public class ChicagoPizzaStore extends PizzaStore {
+public class CaliforniaPizzaStore extends PizzaStore {
 	@Override
-	public Pizza createPizza(String type) {
+	protected Pizza createPizza(String type) {
 		Pizza pizza = null;
 		switch (type) {
 		case "cheese": {
-			pizza = new ChicagoStyleCheesePizza();
+			pizza = new CaliforniaStyleCheesePizza();
 			break;
 		}
 

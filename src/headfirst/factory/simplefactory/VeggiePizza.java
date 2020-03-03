@@ -1,9 +1,10 @@
-package headfirst.factory.simplepizzafactory;
+package headfirst.factory.simplefactory;
 
-public class CheesePizza extends Pizza {
+public class VeggiePizza extends Pizza {
 
-	public CheesePizza(String name) {
+	public VeggiePizza(String name) {
 		super(name);
+		// TODO Auto-generated constructor stub
 	}
 
 	@Override

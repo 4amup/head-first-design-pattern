@@ -1,8 +1,8 @@
-package headfirst.factory.simplepizzafactory;
+package headfirst.factory.simplefactory;
 
-public class PepperoniPizza extends Pizza {
+public class ClamPizza extends Pizza {
 
-	public PepperoniPizza(String name) {
+	public ClamPizza(String name) {
 		super(name);
 		// TODO Auto-generated constructor stub
 	}
